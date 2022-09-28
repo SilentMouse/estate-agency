@@ -1,0 +1,83 @@
+{
+    "houses": [
+        {
+            "title": "Дом 1",
+            "year": 2022,
+            "quartal": 3,
+            "porches": [
+                {
+                    "floorCount": 0,
+                    "porch": 1,
+                    "floorsTotal": 5,
+                    "apartmentsCount": 5
+                },
+                {
+                    "floorCount": 0,
+                    "porch": 1,
+                    "floorsTotal": 5,
+                    "apartmentsCount": 5
+                },
+                {
+                    "floorCount": 0,
+                    "porch": 1,
+                    "floorsTotal": 5,
+                    "apartmentsCount": 5
+                }
+            ]
+        },
+        {
+            "title": "дом 2",
+            "year": 2023,
+            "quartal": 4,
+            "porches": [
+                {
+                    "floorCount": 0,
+                    "porch": 1,
+                    "floorsTotal": 5,
+                    "apartmentsCount": 5
+                },
+                {
+                    "floorCount": 0,
+                    "porch": 1,
+                    "floorsTotal": 5,
+                    "apartmentsCount": 5
+                },
+                {
+                    "floorCount": 0,
+                    "porch": 1,
+                    "floorsTotal": 5,
+                    "apartmentsCount": 5
+                }
+            ]
+        },
+        {
+            "title": "Дом 3",
+            "year": 2022,
+            "quartal": 4,
+            "porches": [
+                {
+                    "floorCount": 0,
+                    "porch": 1,
+                    "floorsTotal": 5,
+                    "apartmentsCount": 5
+                },
+                {
+                    "floorCount": 0,
+                    "porch": 1,
+                    "floorsTotal": 5,
+                    "apartmentsCount": 5
+                },
+                {
+                    "floorCount": 0,
+                    "porch": 1,
+                    "floorsTotal": 5,
+                    "apartmentsCount": 5
+                }
+            ]
+        }
+    ],
+    "id": 2,
+    "developer": "Дары Сибири",
+    "legalEntity": "ул Свободы д1",
+    "title": "ЖК FRESH"
+}
